@@ -31,3 +31,9 @@ Sou um apaixonado por tecnologia, sempre em busca de evoluir e criar soluções 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizzioPenchel&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabrizzioPenchel/FabrizzioPenchel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabrizzioPenchel/FabrizzioPenchel/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabrizzioPenchel/FabrizzioPenchel/output/github-contribution-grid-snake.svg" />
+</picture>

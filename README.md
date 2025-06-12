@@ -29,6 +29,8 @@ Sou um apaixonado por tecnologia, sempre em busca de evoluir e criar soluções 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FabrizzioPenchel&show_icons=true&theme=tokyonight&hide=prs" alt="Fabrizzio GitHub Stats" />
   <br>
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizzioPenchel&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
